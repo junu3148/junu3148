@@ -63,6 +63,5 @@
 
 - SQL Developer (SQLD) - Certified on July 7, 2023
 
-# Thank You!
 
 
