@@ -32,10 +32,62 @@
 <br>
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
 <br/>
+# 👨‍💻 Backend Engineer & Web Developer
+
+## 📝 Introduction
+
+- 😀 저를 객관적으로 잘 파악하고 있다고 생각합니다.
+- 😀 계획을 세우고 추진하는 능력이 뛰어납니다.
+- 😀 문제 해결과 응용력이 뛰어납니다.
+- 😀 효율을 높이고 개선하려고 끊임없이 생각합니다.
+
+## 💡 Profile
+
+- 👶  Born on February 20, 1989
+- 🏫  Currently studying at Korea National Open University, Department of Computer Science (Since March 2024)
+- 👨‍🎓  Graduated from Songwon University, Department of Hotel Culinary Arts (March 2011 - February 2013)
+
+## 💡 Contact Information
+
+- 📭  Email: menstua@naver.com
+- 📞  Phone: 010-6491-6909
+
+## 🎞 Employment
+
+- Currently employed at Viking Lab since December 1, 2023
+
+## 📚 Skills
+
+**Languages and Technologies:**
+
+- **Back-End**: Java, JSP, Thymeleaf, Spring Framework, Spring Boot, MyBatis, Spring Data JPA, Node.js
+- **Database**: Oracle, MySQL, MongoDB, PostgreSQL
+- **Build and Deployment**: Apache Tomcat 9.0, Maven, Gradle, GitHub, AWS EC2, Docker
+
+## ⚒ Personal & Team Projects
+
+- [View My Projects](https://www.notion.so/7f861e4714c2441c93ff0118924ad52c?pvs=21)
+
+## 📝 Blog
+
+- [Visit my blog on Tistory](https://navis.tistory.com/)
+
+## 🗃 GitHub
+
+- [My GitHub Profile](https://github.com/junu3148)
+
+## 📑 Certifications
+
+- SQL Developer (SQLD) - Certified on July 7, 2023
+
+# 😄 Thank You!
+
+For more information, please visit [my blog](https://navis.tistory.com/).
+
