@@ -26,14 +26,7 @@
 
 - 📭  Email: menstua@naver.com
 - 📞  Phone: 010-6491-6909
-<br>
-<div style="color: black;">
-    :email: : menstua@naver.com <br>
-    :iphone: : 010-6491-6909 <br>
-    💻: <a href="https://navis.tistory.com/" style="text-decoration: none; color: black;"> https://navis.tistory.com/ </a>
-</div>
-
-<br/>
+- <a href="https://navis.tistory.com/" style="text-decoration: none; color: black;"> https://navis.tistory.com/ </a>
 
 ## 🎞 Employment
 
