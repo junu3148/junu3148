@@ -57,6 +57,8 @@
 
 - [Visit my blog on Tistory](https://navis.tistory.com/)
 
+-[Visit my Notion](https://www.notion.so/JUNU-YANG-d32471fa51c540cbafb30cc8824c0129)
+
 
 ## Certifications
 
