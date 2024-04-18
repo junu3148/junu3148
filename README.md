@@ -38,8 +38,7 @@
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Mybatis-363636?style=for-the-badge&logo=Mybatis&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Data JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
