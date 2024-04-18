@@ -4,31 +4,31 @@
 
 ##  Connect with me:
 
-# 👨‍💻 Backend Engineer & Web Developer
+# Backend Engineer & Web Developer
 
-## 📝 Introduction
+## Introduction
 
-- 😀 I believe I have a good objective understanding of myself.
-- 😀 I excel at planning and executing those plans.
-- 😀 I have strong problem-solving and application skills.
-- 😀 I am constantly thinking about how to improve efficiency and make enhancements.
+-  I believe I have a good objective understanding of myself.
+-  I excel at planning and executing those plans.
+-  I have strong problem-solving and application skills.
+-  I am constantly thinking about how to improve efficiency and make enhancements.
 
-## 💡 Profile
+##  Profile
 
-- 👶  Born on February 20, 1989
-- 🏫  Currently studying at Korea National Open University, Department of Computer Science (Since March 2024)
-- 👨‍🎓  Graduated from Songwon University, Department of Hotel Culinary Arts (March 2011 - February 2013)
+-  Born on February 20, 1989
+-  Currently studying at Korea National Open University, Department of Computer Science (Since March 2024)
+-  Graduated from Songwon University, Department of Hotel Culinary Arts (March 2011 - February 2013)
 
-## 💡 Contact Information
+##  Contact Information
 
-- 📭  Email: menstua@naver.com
-- 📞  Phone: 010-6491-6909
+-  Email : menstua@naver.com
+-  Phone : 010-6491-6909
 
-## 🎞 Employment
+##  Employment
 
 - Currently employed at Viking Lab since December 1, 2023
 
-## 📚 Skills
+##  Skills
 
 <br><t>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -58,15 +58,15 @@
 <br/>
 
 
-## 📝 Blog
+## Blog
 
 - [Visit my blog on Tistory](https://navis.tistory.com/)
 
 
-## 📑 Certifications
+## Certifications
 
 - SQL Developer (SQLD) - Certified on July 7, 2023
 
-# 😄 Thank You!
+# Thank You!
 
 
