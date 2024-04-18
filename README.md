@@ -4,17 +4,14 @@
 
 ##  Connect with me:
 
-
-
-
 # 👨‍💻 Backend Engineer & Web Developer
 
 ## 📝 Introduction
 
-- 😀 저를 객관적으로 잘 파악하고 있다고 생각합니다.
-- 😀 계획을 세우고 추진하는 능력이 뛰어납니다.
-- 😀 문제 해결과 응용력이 뛰어납니다.
-- 😀 효율을 높이고 개선하려고 끊임없이 생각합니다.
+- 😀 I believe I have a good objective understanding of myself.
+- 😀 I excel at planning and executing those plans.
+- 😀 I have strong problem-solving and application skills.
+- 😀 I am constantly thinking about how to improve efficiency and make enhancements.
 
 ## 💡 Profile
 
@@ -26,15 +23,12 @@
 
 - 📭  Email: menstua@naver.com
 - 📞  Phone: 010-6491-6909
-- <a href="https://navis.tistory.com/" style="text-decoration: none; color: black;"> https://navis.tistory.com/ </a>
 
 ## 🎞 Employment
 
 - Currently employed at Viking Lab since December 1, 2023
 
 ## 📚 Skills
-
-##  Languages and Tools
 
 <br><t>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -63,17 +57,11 @@
 
 <br/>
 
-## ⚒ Personal & Team Projects
-
-- [View My Projects](https://www.notion.so/7f861e4714c2441c93ff0118924ad52c?pvs=21)
 
 ## 📝 Blog
 
 - [Visit my blog on Tistory](https://navis.tistory.com/)
 
-## 🗃 GitHub
-
-- [My GitHub Profile](https://github.com/junu3148)
 
 ## 📑 Certifications
 
@@ -81,5 +69,4 @@
 
 # 😄 Thank You!
 
-For more information, please visit [my blog](https://navis.tistory.com/).
 
