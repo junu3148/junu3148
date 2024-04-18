@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFE0&height=130&section=header&text=Yangjunu&fontSize=30&fontColor=00000)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:aqua_end&height=150&section=header&text=Yang&nbspjunu&fontSize=40&fontColor=fff&fontAlign=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:aqua_end&height=150&section=header&text=Yang%20Junu&fontSize=40&fontColor=fff&fontAlign=75)
+
 
 # Backend Engineer & Web Developer
 
