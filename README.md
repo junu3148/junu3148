@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFFFE0&height=130&section=header&text=Yangjunu&fontSize=30&fontColor=00000)
 
-
-
-##  Connect with me:
-
 # Backend Engineer & Web Developer
 
 ## Introduction
