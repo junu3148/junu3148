@@ -23,7 +23,7 @@
 
 ##  Employment
 
-- Served at Varnish Stereotype from October 1, 2023
+- Served at Snugly from October 1, 2023
 
 ##  Skills
 
