@@ -23,7 +23,7 @@
 
 ##  Employment
 
-- Currently employed at Viking Lab since December 1, 2023
+- Served at Varnish Stereotype from October 1, 2023
 
 ##  Skills
 
