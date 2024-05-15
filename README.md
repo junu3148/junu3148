@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:aqua_end&height=150&section=header&text=Yang%20Junu&fontSize=40&fontColor=fff&fontAlign=75)
 
 
-# Backend Engineer & Web Developer
+# Back-end Engineer & Web Developer
 
 ## Introduction
 
