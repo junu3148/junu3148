@@ -21,9 +21,6 @@
 -  Email : menstua@naver.com
 -  Phone : 010-6491-6909
 
-##  Employment
-
-- Served at Snugly from October 1, 2023
 
 ##  Skills
 
